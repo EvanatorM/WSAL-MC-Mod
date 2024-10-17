@@ -52,7 +52,7 @@ This mod is licensed under the **MIT License**. That means you can use it, chang
 
 ## **Contact**  
 Wanna stay in the loop?  
-- **WSAL Evan's YouTube:** [Click here](https://www.youtube.com) (Seriously, just Google it, lazybones.)  
+- **WSAL Evan's YouTube:** [Click here](https://www.youtube.com/@wsalevan) (Seriously, just Google it, lazybones.)  
 - **Discord:** There’s a Discord server. Find the link on his channel or something.  
 
 ---
