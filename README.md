@@ -58,3 +58,5 @@ Wanna stay in the loop?
 ---
 
 Now get out there and start playing, ya filthy animals. And remember, **if you die a lot, that’s on you, not us.**
+
+*Readme written by ChatGPT*
