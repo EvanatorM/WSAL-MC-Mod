@@ -46,7 +46,7 @@ Having issues? That’s probably ‘cause you’re bad at Minecraft. But if you�
 ---
 
 ## **License**  
-This mod is licensed under the **MIT License**. That means you can use it, change it, whatever—just don’t sue us, ya fat baby.  
+This mod is licensed under the **CC0-1.0 license**. That means you can use it, change it, whatever—just don’t sue us, ya fat baby.  
 
 ---
 
